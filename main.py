@@ -1,5 +1,6 @@
-# Papiweb desarrollos informaticos
-# (Adaptado por Gemini para pygbag/web)
+# - Papiweb desarrollos informaticos -
+# Juego: Defensor Naval (Navalwebs)
+# (Adaptado para pygbag/web)
 import io
 import base64
 import os
